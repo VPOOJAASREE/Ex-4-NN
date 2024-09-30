@@ -157,7 +157,8 @@ print(classification_report(y_test,predictions))
 
 
 <H3>Output:</H3>
-![o1](https://github.com/user-attachments/assets/b9d8ad87-4390-4ec3-ae74-376eca6b315d)
+![o1](https://github.com/user-attachments/assets/c4508d7b-4b61-4ca6-ad3a-6c020f4149d3)
+
 
 
 
@@ -190,7 +191,8 @@ print(classification_report(testing_b,predicted_values))
 
 
 <H3>Output:</H3>
-![o2](https://github.com/user-attachments/assets/4e7ec9a7-c1f2-4680-a7e7-97f221ea84e6)
+![o2](https://github.com/user-attachments/assets/e53cb379-631c-4b0e-ac34-37325b587ac7)
+
 
 
 <H3>Result:</H3>
